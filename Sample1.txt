@@ -1,0 +1,5 @@
+Java is a high-level programming language.
+Streams are useful in Java for processing collections.
+Lambda expressions make Java code more concise.
+Swing is used for building GUI applications.
+Java supports object-oriented programming.
